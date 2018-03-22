@@ -30,7 +30,7 @@ paths:
         200:
           description: OK
       tags:
-      - ticket
+      - tickets
 definitions:
   Account:
     properties:

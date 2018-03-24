@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-analytics.api.streamdata.gallery
+title: Streamdata Gallery Google Analytics
+url: google-analytics.streamdata.gallery
 tag: Google Analytics
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-analytics
 github_branch: master
 collections:

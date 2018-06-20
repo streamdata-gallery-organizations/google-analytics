@@ -4,7 +4,7 @@ x-collection-name: Google Analytics
 x-complete: 1
 info:
   title: Google Analytics
-  description: views-and-manages-your-google-analytics-data
+  description: views-and-manages-your-google-analytics-data-
   contact:
     name: Google
     url: https://google.com

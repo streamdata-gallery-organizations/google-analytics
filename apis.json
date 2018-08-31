@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Analytics",
+	"description": "This is a repository of google analytics APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-analytics.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-analytics.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Analytics",
+			"x-api-slug": "google-analytics",
+			"description": "Google Analytics gives you the digital analytics tools you need to analyze data from all touchpoints in one place, for a deeper understanding of the customer experience. You can then share the insights that matter with your whole organization.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png",
+			"humanURL": "https://www.google.com/analytics/#?modal_active=none",
+			"baseURL": "https://www.googleapis.com//analytics/v3",
+			"tags": "Google Analytics",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-analytics/master/_listings/google-analytics/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Analytics",
+	"include": [
+		{
+			"name": "Google Analytics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-analytics/master/_listings/google-analytics/apis.yaml"
+		}
+	]
+}
